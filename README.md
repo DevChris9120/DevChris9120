@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevChris9120
 - 👀 I’m interested in ... Web Development | Ethical Hacking | Cybersecurity
-- 🌱 I’m currently learning ... Python | JavaScript | C++ | Assembly
+- 🌱 I’m currently learning ... Python | JavaScript | C++ | Assembly | Game Hacking
 - 💞️ I’m looking to collaborate on ... Any Projects That Can Help Me Network With Others
 - ⚡ Fun fact: ... I Am An Introvert
 
