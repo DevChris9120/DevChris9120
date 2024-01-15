@@ -1,4 +1,4 @@
-This script is a webscraper it parses and crawl a website all the links and endpoints it also get the website server ip address and website port along with the name of the server this is my first project feel free to modify code as needed use it however you want
+This Is My First Time Using Github I Am Self Learning Cybersecurity | Ethical Hacking As Time Go By And I Get More Familiar With Github The Repositories Will Get Better I Want To Collab With Others On The Projects I Create Even Though I Am An Introvert I'm Still Getting More Familiar With The Programming Languages(Python, C++, JavaScript, Asm)..
 
 
 
